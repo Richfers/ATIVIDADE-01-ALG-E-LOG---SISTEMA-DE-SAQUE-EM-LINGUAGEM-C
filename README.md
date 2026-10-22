@@ -52,7 +52,7 @@ Para compilar e rodar o programa na sua máquina, certifique-se de ter um compil
 
 **Entrada:**
 ```text
-Digite o valor que deseja sacar: R$ 285
+Digite o valor: R$ 285
 ```
 
 **Saída Esperada:**
@@ -64,7 +64,6 @@ Notas entregues:
 - 1 nota(s) de R$ 20
 - 1 nota(s) de R$ 10
 - 1 nota(s) de R$ 5
-Total de cédulas: 6
 ```
 
 ---
